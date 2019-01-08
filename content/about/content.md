@@ -1,21 +1,3 @@
-Find the repository [on GitHub](https://github.com/fabe/gatsby-universal).
+Las frases pretenciosas que todo milenial influencer necesita.
 
-```
-# Installation
-gatsby new my-site https://github.com/fabe/gatsby-universal
-
-# To develop
-yarn develop
-
-# To build
-yarn build
-
-# To test SSR (for Lighthouse etc.)
-yarn ssr
-
-# To format JS (precommit)
-yarn format
-
-# To generate favicons (included in `build`)
-yarn build:favicons
-```
+Este proyecto fue creado gracias a [@papaponmx](https://instagram.com/papaponmx) inspirado en todos los tipos mamados y las mujeres esbeltas que comparten fotos de sus cuerpos con frases pretenciosas que no tienen nada que ver.
